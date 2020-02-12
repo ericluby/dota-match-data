@@ -1,0 +1,25 @@
+{
+  "name": "dota-match-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericluby/dota-match-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericluby/dota-match-data/issues"
+  },
+  "homepage": "https://github.com/ericluby/dota-match-data#readme"
+}

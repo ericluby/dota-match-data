@@ -1,0 +1,53 @@
+[
+  {
+    "match_id": 5235266369,
+    "player_slot": 3,
+    "radiant_win": true,
+    "duration": 1075,
+    "game_mode": 3,
+    "lobby_type": 0,
+    "hero_id": 31,
+    "start_time": 1581281452,
+    "version": null,
+    "kills": 7,
+    "deaths": 1,
+    "assists": 8,
+    "skill": 1,
+    "leaver_status": 0,
+    "party_size": null
+  },
+  {
+    "match_id": 5235239734,
+    "player_slot": 3,
+    "radiant_win": false,
+    "duration": 1312,
+    "game_mode": 22,
+    "lobby_type": 0,
+    "hero_id": 83,
+    "start_time": 1581279769,
+    "version": 21,
+    "kills": 1,
+    "deaths": 9,
+    "assists": 3,
+    "skill": 3,
+    "leaver_status": 0,
+    "party_size": 2
+  },
+  {
+    "match_id": 5233975157,
+    "player_slot": 1,
+    "radiant_win": true,
+    "duration": 1198,
+    "game_mode": 22,
+    "lobby_type": 7,
+    "hero_id": 31,
+    "start_time": 1581230317,
+    "version": null,
+    "kills": 4,
+    "deaths": 3,
+    "assists": 15,
+    "skill": 3,
+    "leaver_status": 0,
+    "party_size": null
+  }
+]
