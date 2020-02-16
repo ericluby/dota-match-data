@@ -5,9 +5,13 @@
   "main": "example.js",
   "dependencies": {
     "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
     "node-fetch": "^2.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
